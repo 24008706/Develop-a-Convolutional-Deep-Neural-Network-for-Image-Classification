@@ -65,7 +65,9 @@ Evaluate the trained model on test images and verify the classification accuracy
 
 ## Classification Report
 <img width="595" height="437" alt="image" src="https://github.com/user-attachments/assets/008e1fbc-6a95-4243-9e45-889dbd7afc3c" />
+
 ### New Sample Data Prediction
 <img width="571" height="638" alt="image" src="https://github.com/user-attachments/assets/d62c662f-1db2-4867-bb06-512e2123efff" />
+
 ## RESULT
 The Convolutional Neural Network (CNN) model was successfully trained and achieved good classification performance on the given image dataset.
