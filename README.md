@@ -1,5 +1,3 @@
-<img width="1060" height="753" alt="image" src="https://github.com/user-attachments/assets/687d715f-2411-4616-a550-b9a9bb8338e0" /># Develop a Convolutional Deep Neural Network for Image Classification
-
 ## AIM
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
@@ -66,7 +64,7 @@ Evaluate the trained model on test images and verify the classification accuracy
 
 
 ## Classification Report
-<img width="638" height="467" alt="image" src="https://github.com/user-attachments/assets/e953fbbf-6ead-4b91-abba-503a06fe12e8" /
+<img width="595" height="437" alt="image" src="https://github.com/user-attachments/assets/008e1fbc-6a95-4243-9e45-889dbd7afc3c" />
 ### New Sample Data Prediction
 <img width="571" height="638" alt="image" src="https://github.com/user-attachments/assets/d62c662f-1db2-4867-bb06-512e2123efff" />
 ## RESULT
